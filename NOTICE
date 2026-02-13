@@ -1,0 +1,18 @@
+nxcypher-bolt
+Copyright 2025-2026 Gregorio Elias Roecker Momm and contributors
+
+This product includes software developed by Gregorio Elias Roecker Momm.
+
+THIRD PARTY NOTICES
+===================
+
+This software implements the Bolt protocol for Neo4j compatibility.
+The Bolt protocol is developed by Neo4j, Inc.
+
+- Neo4j is a registered trademark of Neo4j, Inc.
+- This project is not affiliated with or endorsed by Neo4j, Inc.
+- Users should review Neo4j's terms of service and licensing before
+  using this software in production environments.
+
+The Bolt protocol implementation in this project is based on publicly
+available documentation and open-source reference implementations.
